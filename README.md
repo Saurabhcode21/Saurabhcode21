@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Saurabh+Kumar;Full+Stack+Developer;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</h1>
+
 ## Hi there 👋 Namaste🙏 I'm Saurabh Kumar
 
 # 💫 About Me:
