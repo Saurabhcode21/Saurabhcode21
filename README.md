@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🔭 I have completed my Diploma in engineering with Vocational IT From Dayalbagh educational institute, Agra<br><br>🔭 Currently, I'm pursuing B. Tech (Computer Science & Engineering) from Eshan College of Engineering.<br><br>🔥 I’m currently working on upskillng myself<br><br>🌱 I’m currently learning frameworks & libraries like React js and NodeJs etc..<br><br>💡 I'm a self learn Programmer<br><br>💬 More passionate to learn New Tech<br><br>📫 Reach me at Saurabhkm321@gmail.com
+<br> LinkedIn -->>   https://www.linkedin.com/in/saurabhcode21/
 
 
 ## 🌐 Socials:
